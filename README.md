@@ -33,6 +33,7 @@ I build real-world, AI-powered business solutions — from smart POS systems to 
 
 ### 📫 Let's Connect
 - Portfolio (Coming Soon)
+- LinkedIn:https://www.linkedin.com/in/victor-kiplimo-21342424a/
 
 ---
 
