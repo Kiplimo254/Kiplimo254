@@ -17,7 +17,7 @@ I build real-world, AI-powered business solutions — from smart POS systems to 
 - **Languages**: Python, PHP, JavaScript
 - **Backend**: Django, Laravel
 - **Frontend**: React.js, HTML5, TailwindCSS
-- **Databases**: PostgreSQL, MySQL, SQLite
+- **Databases**: PostgreSQL, MySQL, SQLite, MongoDB
 - **Tools**: Docker, Git, VS Code, Postman
 - **Other**: AI Integration, REST APIs, Microservices
 
