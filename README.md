@@ -7,8 +7,8 @@ I build real-world, AI-powered business solutions — from smart POS systems to 
 ---
 
 ### 🚀 What I Do
-- 🛠️ Build production-ready apps (POS, E-commerce, Service Management)
-- ⚡ Automate business operations with AI and modern web tech
+- 🛠️ Build production-ready apps (POS, E-commerce, Service Management, personal websites)
+- ⚡ Automate business operations with AI and modern web tech, automating daily tasks
 - 📈 Focus on scalability, clean architecture, and business value
 
 ---
