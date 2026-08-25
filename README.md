@@ -1,4 +1,4 @@
-# Hi, I'm Victor 👋
+# Hi, I'm Victor 
 
 **Full-Stack Engineer & IT Solutions Specialist**  
 I design, build, and maintain scalable web applications, business systems, and secure IT infrastructure.
