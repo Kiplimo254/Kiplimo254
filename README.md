@@ -1,41 +1,47 @@
-# Hi, I'm [Kiplimo254] 
-victorkiplimo74@gmail.com
+# Hi, I'm Victor 👋
 
-I'm a **Full-Stack Software Developer** specializing in **Django**, **React.js**, and **Laravel**.  
-I build real-world, AI-powered business solutions — from smart POS systems to multivendor e-commerce platforms.
-
----
-
-###  What I Do
--  Build production-ready apps (POS, E-commerce, Service Management, personal websites)
--  Automate business operations with AI and modern web tech, automating daily tasks
--  Focus on scalability, clean architecture, and business value
+**Full-Stack Engineer & IT Solutions Specialist**  
+I design, build, and maintain scalable web applications, business systems, and secure IT infrastructure.
 
 ---
 
-  Tech Stack
-- **Languages**: Python, PHP, JavaScript
-- **Backend**: Django, Laravel
-- **Frontend**: React.js, HTML5, TailwindCSS
-- **Databases**: PostgreSQL, MySQL, SQLite, MongoDB
-- **Tools**: Docker, Git, VS Code, Postman
-- **Other**: AI Integration, REST APIs, Microservices
+### Business Solutions & Development
+
+* **Landing Pages:** Custom, high-converting responsive web pages tailored for brands and products.
+* **Point of Sale (POS) Systems:** Feature-rich inventory, sales tracking, and checkout platforms.
+* **E-Commerce Platforms:** Custom and multivendor online storefronts with payment gateway integrations.
+* **ERP Systems:** Integrated enterprise platforms to streamline operations, workflows, and resource planning.
+* **Content Management Systems (CMS):** Dynamic content administration for seamless publishing and updates.
 
 ---
 
-###  Projects I'm Passionate About
-- AI-powered Point of Sale Systems
-- Multivendor E-commerce Platforms
-- Digital Invoicing & Receipting Solutions
-- Business Automation Tools
+### Technical Services & Support
+
+* **Database Management:** Architecture design, query optimization, migration, and backup systems (PostgreSQL, MySQL, MongoDB).
+* **Software Debugging & Patching:** Troubleshooting legacy code, resolving critical bugs, and deploying hotfixes.
+* **Hosting & Server Management:** Deployment, environment setup, domain management, and server upkeep.
+* **Web Security & Testing:** Vulnerability assessments, security audits, and patch execution for live applications.
+* **Online IT Technical Support:** Remote technical assistance, system maintenance, and performance monitoring.
 
 ---
 
-### Let's Connect
-- Portfolio: https://portfolio-swart-zeta-45.vercel.app/
-- LinkedIn:https://www.linkedin.com/in/victor-kiplimo-21342424a/
+### Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, PHP, JavaScript, TypeScript |
+| **Frameworks** | Django, React.js, Laravel |
+| **Databases** | PostgreSQL, MySQL, MongoDB, SQLite |
+| **DevOps & Tools** | Docker, Git, VS Code, Postman |
 
 ---
 
-> "Building the future of business, one line of code at a time." 
+### Connect With Me
 
+| Platform | Link |
+| :--- | :--- |
+| **Portfolio** | [portfolio-swart-zeta-45.vercel.app](https://portfolio-swart-zeta-45.vercel.app/) |
+| **LinkedIn** | [in/victor-kiplimo-21342424a](https://www.linkedin.com/in/victor-kiplimo-21342424a/) |
+| **X / Twitter** | [@chirchirVicky](https://x.com/chirchirVicky) |
+
+> *"Building reliable digital products and keeping systems secure."*
